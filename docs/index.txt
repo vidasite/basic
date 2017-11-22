@@ -1,0 +1,87 @@
+<html>
+
+<head>
+<Style>
+a:link {color: blue;}
+/*visited link*/
+a:visited {color: purple;}
+/*mouse over link*/
+a:hover {color: blue; background-color: white;}
+/*selected link*/ 
+a:active {color: red;}
+
+td
+{
+ font-family: Arial;
+
+}
+
+div1
+{ 
+ margin-top: -900px;
+ margin-left: 200px;
+}
+
+div
+{ 
+ margin-top: -600px;
+ margin-left: 160px;
+}
+
+
+
+
+</Style>
+
+</head>
+
+
+
+<body>
+
+
+<table border= "1" width= "1000" bgcolor= "orange">
+
+<tr>
+<td width = "125"> <img src = "sweet shop logo.bpm" width= "125" height= "100"> </td>
+<td bgcolor= "white"> <img src = "Vida's Sweet Shop.png" width= "900" height= "100"> </td>
+</tr>
+
+</table>
+
+<table border= "1">
+
+<tr> <td bgcolor= "yellow" height= "100"> <a href="#"> Home </td> </tr>
+<tr> <td bgcolor= "lightgreen" height= "100"> <a href="#"> Products </td> </tr>
+<tr> <td bgcolor= "pink" height= "100"> <a href="#">Customer Service </td> </tr>
+<tr> <td bgcolor= "orange" height= "100"> <a href="#">Contact Us </td> </tr>
+<tr> <td bgcolor= "powdergreen" height= "100"> <a href="#">About Us </td> </tr>
+
+
+</table>
+
+
+<table border= "1" width= "1000">
+<tr> <td> <font color= "blue"> Copyrights, Vida International 2016, all rights reserved, Last updated 22/09/2016 </font> </td> </tr>
+
+</table>
+
+<div1 >
+   Please provide your user details <br> <br>
+   <form>
+        User name: <input type="text" value=""> <br>
+        Password: <input type ="password" value=""> <br>
+<input type= "button" value= "Submit">
+
+   </form>
+</div1>
+
+<div>
+   Welcome to Vida's international sweet shop store!
+
+</div>
+
+</body>
+
+
+</html>
