@@ -51,11 +51,11 @@ div
 
 <table border= "1">
 
-<tr> <td bgcolor= "yellow" height= "100"> <a href="#"> Home </td> </tr>
-<tr> <td bgcolor= "lightgreen" height= "100"> <a href="#"> Products </td> </tr>
-<tr> <td bgcolor= "pink" height= "100"> <a href="#">Customer Service </td> </tr>
-<tr> <td bgcolor= "orange" height= "100"> <a href="#">Contact Us </td> </tr>
-<tr> <td bgcolor= "powdergreen" height= "100"> <a href="#">About Us </td> </tr>
+<tr> <td bgcolor= "yellow" height= "100"> <a href="index.html"> Home </td> </tr>
+<tr> <td bgcolor= "lightgreen" height= "100"> <a href="products.html"> Products </td> </tr>
+<tr> <td bgcolor= "pink" height= "100"> <a href="Customer Service.html">Customer Service </td> </tr>
+<tr> <td bgcolor= "orange" height= "100"> <a href="contact us.html">Contact Us </td> </tr>
+<tr> <td bgcolor= "powdergreen" height= "100"> <a href="about us.html">About Us </td> </tr>
 
 
 </table>
